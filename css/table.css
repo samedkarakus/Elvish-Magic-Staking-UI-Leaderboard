@@ -1,3 +1,5 @@
+@import url(//db.onlinewebfonts.com/c/ffe66f1f477fe14d4460f1558fd58b91?family=Deadhead+Rough);
+
 .table-container {
   padding-top: 100px;
   width: 100%;
@@ -162,14 +164,21 @@ tbody td {
   }
 }
 
-@media screen and (max-width: 691px) {
+/* @media screen and (max-width: 691px) {
   .home-rectangle342{
     display: none;
   }
-}
+} */
 
 @media screen and (max-width: 611px) {
   .table-staked{
     margin-bottom: 50px;
   }
 }
+
+/* @media screen and (max-width: 652px) {
+  .home-vectorsvg{
+    margin: 0;
+    margin-bottom: 15px;
+  }
+} */
